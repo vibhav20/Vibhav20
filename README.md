@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vibhav!
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently doing Python related ML projects
-- 💞️ I’d love to work on some Sports related Data Science/Analytics project
+- 👀 I’m interested in Machine Learning and NLP
+- 🌱 I’m currently doing my MS by Research in Language Technology Research Center, IIITH
+- 💞️ I’d love to some day work on a Sports related Data Science project
 - 📫 How to reach me : vibhavwrk@gmail.com
 
 <!---
